@@ -51,9 +51,9 @@ My passion for learning has motivated me to stay curious & to continuously searc
 
 # Side projects
 - [Recurso](https://www.recurso.tech/) - End your dependency on tabs and browser history!
-- [Tourist app](https://www.infomeliquina.com/) - For one of the most beuatiful locations on the planet. 🇦🇷
+- [Tourist app](https://www.infomeliquina.com/) - For one of the most awesome locations on the planet. 🇦🇷
 - [Surfboard Marketplace](https://www.shortboard.com.au/) - The last surfboard marketplace you will ever need!
-- [Tourist app](https://apps.apple.com/au/app/wtd-noosa/id1561416158) - Find what you need, get the info organize the crew, family, friends...
+- [Tourist mobile app](https://apps.apple.com/au/app/wtd-noosa/id1561416158) - Find what you need, get the info organize the crew, family, friends...
 - [React HUD](https://www.npmjs.com/package/react-heads-up-display) - A showcase view for your website, with multiple action points overlaying the main display.
 - [React Matrix](https://www.npmjs.com/package/react-data-matrix) - Display the likelihood & consequence "scores" for risks & hazards.
 
