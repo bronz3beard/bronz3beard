@@ -5,7 +5,7 @@ I am a software engineer, with a creative mindset.
 My passion for learning has motivated me to stay curious & to continuously search out new technologies.
 ```
 
-- 👀 Software Engineer, Web developing, Raspberry Pi tinkering, problem solver, with a longing to live off the grid (coming soon!)
+- 👀 Software Engineer, Web developing, Raspberry Pi tinkering, problem solver.
 - 🌱 I’m currently working on improving my tecnical writing, by staring a blog, one post a week so far.
 
 ---
