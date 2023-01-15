@@ -10,8 +10,8 @@ My passion for learning has motivated me to stay curious & to continuously searc
 
 ---
 
-# 🕸️ [My website](https://www.heyrory.com)
-# 🙈🙉🙊 [My blog](https://blog.heyrory.com)
+# 🕸️ [heyrory.com](https://www.heyrory.com)
+# 🙈🙉🙊 [blog](https://blog.heyrory.com)
 ---
 
 # Technology I like to work with.
