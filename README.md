@@ -50,6 +50,7 @@ My passion for learning has motivated me to stay curious & to continuously searc
 ---
 
 # Side projects
+- [View my Property](https://viewmyproperty.au/) - Australia's most affordable property site for real estate. COMING SOON!
 - [Recurso](https://www.recurso.tech/) - End your dependency on tabs and browser history!
 - [Tourist app](https://www.infomeliquina.com/) - For one of the most awesome locations on the planet. 🇦🇷
 - [Surfboard Marketplace](https://www.shortboard.com.au/) - The last surfboard marketplace you will ever need!
