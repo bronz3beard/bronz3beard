@@ -1,7 +1,8 @@
 ## 👋 Hi, Welcome to my github page! My name is rory (@bronz3beard)
 ---
 ```
-I am a software engineer, with a creative mindset that has a passion for collaborating with people and understanding team dynamic.
+I am a software engineer,
+with a creative mindset that has a passion for collaborating with people and understanding team dynamic.
 My passion for learning has motivated me to stay curious & to continuously search out new technologies.
 ```
 
