@@ -3,7 +3,7 @@
 ```
 I am a software engineer,
 with a creative mindset that has a passion for collaborating with people and understanding team dynamic.
-My passion for learning has motivated me to stay curious & to continuously search out new technologies.
+My large appetite for learning has motivated me to stay curious & to continuously search out new technologies.
 ```
 
 - 👀 Software Engineer, Web developing, Raspberry Pi tinkering, problem solver.
