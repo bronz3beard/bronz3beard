@@ -2,7 +2,7 @@
 ---
 ```
 I am a software engineer,
-with a creative mindset that has a passion for collaborating with people and understanding team dynamic.
+with a creative mindset that has a passion for collaborating with people, and producing highly functional and enjoyable applications.
 My large appetite for learning has motivated me to stay curious & to continuously search out new technologies.
 ```
 
@@ -24,6 +24,7 @@ My large appetite for learning has motivated me to stay curious & to continuousl
 
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23F7DF1E)
 ![MaterialUI](https://img.shields.io/badge/mui-%23323330.svg?style=for-the-badge&logo=mui&logoColor=%23F7DF1E)
+![Ant Design](https://img.shields.io/badge/antdesign-%23323330.svg?style=for-the-badge&logo=antdesign&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23F7DF1E)
@@ -37,6 +38,7 @@ My large appetite for learning has motivated me to stay curious & to continuousl
 ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23F7DF1E)
 ![MapBox](https://img.shields.io/badge/mapbox-%23323330.svg?style=for-the-badge&logo=mapbox&logoColor=%23F7DF1E)
 ![GoogleAnalytics4](https://img.shields.io/badge/googleanalytics-%23323330.svg?style=for-the-badge&logo=googleanalytics&logoColor=%23F7DF1E)
+![Shopify](https://img.shields.io/badge/shopify-%23323330.svg?style=for-the-badge&logo=shopify&logoColor=%23F7DF1E)
 ![Stripe](https://img.shields.io/badge/stripe-%23323330.svg?style=for-the-badge&logo=stripe&logoColor=%23F7DF1E)
 ![ReactNative](https://img.shields.io/badge/reactnative-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
 
