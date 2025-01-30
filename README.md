@@ -53,11 +53,7 @@ My large appetite for learning has motivated me to stay curious & to continuousl
 ---
 
 # Side projects
-- [View my Property](https://viewmyproperty.au/) - Australia's most affordable property site for real estate. COMING SOON!
 - [Info Meliquina - Tourist app](https://www.infomeliquina.com/) - For one of the most awesome locations on the planet. 🇦🇷
-- [Recurso](https://www.recurso.tech/) - End your dependency on tabs and browser history!
-- [Surfboard Marketplace](https://www.shortboard.com.au/) - A free to use surfboard marketplace!
-- [What to do Noosa - Tourist mobile app](https://apps.apple.com/au/app/wtd-noosa/id1561416158) - Find what you need, get the info organize the crew, family, friends...
 
 - [React Marketing Tools](https://www.npmjs.com/package/react-marketing-tools) - Simple to use dependency for managing user events and journeys in your web apps with google analytic GA4, DataLayer Google tag manager or Facebook pixel.
 - [React HUD](https://www.npmjs.com/package/react-heads-up-display) - A showcase view for your website, with multiple action points overlaying the main display.
