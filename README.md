@@ -1,66 +1,68 @@
-## 👋 Hi, Welcome to my github page! My name is rory (@bronz3beard)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=👋+Hi,+Welcome+to+my+GitHub!;I'm+Rory+(@bronz3beard);Problem+Solver+&+Software+Engineer;Building+AI+Agents;Tinkering+with+Raspberry+Pi" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <em>Software Engineer with over 8 years of experience building highly functional, enjoyable applications since 2018.</em><br/>
+  With a creative mindset and a large appetite for learning, I am constantly staying curious and continuously seeking out new technologies.
+</p>
+
+<p align="center">
+  <a href="https://www.heyrory.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-heyrory.com-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://blog.heyrory.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Blog-blog.heyrory.com-2DD4BF?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" />
+  </a>
+</p>
+
 ---
-```
-I am a software engineer,
-with a creative mindset that has a passion for collaborating with people, and producing highly functional and enjoyable applications.
-My large appetite for learning has motivated me to stay curious & to continuously search out new technologies.
-```
 
-- 👀 Software Engineer, Web developing, Raspberry Pi tinkering, problem solver.
-- 🌱 I’m currently working on improving my tecnical writing, by staring a blog.
+### 🌱 What I'm Currently Working On
+
+- 🧠 **AI & Agentic Workflows:** Developing advanced AI tooling (`tech-lead-stack`, `small-language-model-gate`, `agents-production`, `voice-assistant-app`) — leveraging **MCP**, **Langfuse**, and **AI SDKs** to build autonomous code-review and workflow orchestration agents.
+- ⚛️ **Modern Web Development:** Building performant applications with **Next.js 15/16+**, **React 19**, and **Tailwind CSS v4**.
+- ✍️ **Technical Writing:** Occasionally working on improving my technical writing by sharing my journey and insights on my [blog](https://blog.heyrory.com).
+- 🍓 **Hardware:** Occasional Raspberry Pi tinkering and home-lab automation.
 
 ---
 
-# 🕸️ [heyrory.com](https://www.heyrory.com)
-# 🙈🙉🙊 [blog](https://blog.heyrory.com)
----
+### 🛠️ Technology I like to work with
 
-# Technology I like to work with.
-
-![Reactjs](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
-![Nextjs](https://img.shields.io/badge/nextjs-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
+**Languages & Core**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/nodejs-%23323330.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23F7DF1E)
 
-![Tailwindcss](https://img.shields.io/badge/tailwindcss-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23F7DF1E)
-![MaterialUI](https://img.shields.io/badge/mui-%23323330.svg?style=for-the-badge&logo=mui&logoColor=%23F7DF1E)
-![Ant Design](https://img.shields.io/badge/antdesign-%23323330.svg?style=for-the-badge&logo=antdesign&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23F7DF1E)
+**Frontend & Frameworks**
+![Next.js](https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/mui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-![Redux](https://img.shields.io/badge/redux-%23323330.svg?style=for-the-badge&logo=redux&logoColor=%23F7DF1E)
-![MobX](https://img.shields.io/badge/mobx-%23323330.svg?style=for-the-badge&logo=mobx&logoColor=%23F7DF1E)
+**Backend & Data**
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-![Node](https://img.shields.io/badge/nodejs-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Laravel](https://img.shields.io/badge/laravel-%23323330.svg?style=for-the-badge&logo=laravel&logoColor=%23F7DF1E)
-
-![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23F7DF1E)
-![MapBox](https://img.shields.io/badge/mapbox-%23323330.svg?style=for-the-badge&logo=mapbox&logoColor=%23F7DF1E)
-![GoogleAnalytics4](https://img.shields.io/badge/googleanalytics-%23323330.svg?style=for-the-badge&logo=googleanalytics&logoColor=%23F7DF1E)
-![Shopify](https://img.shields.io/badge/shopify-%23323330.svg?style=for-the-badge&logo=shopify&logoColor=%23F7DF1E)
-![Stripe](https://img.shields.io/badge/stripe-%23323330.svg?style=for-the-badge&logo=stripe&logoColor=%23F7DF1E)
-![ReactNative](https://img.shields.io/badge/reactnative-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
-
-![Prisma](https://img.shields.io/badge/prisma-%23323330.svg?style=for-the-badge&logo=prisma&logoColor=%23F7DF1E)
-![Supabase](https://img.shields.io/badge/supabase-%23323330.svg?style=for-the-badge&logo=supabase&logoColor=%23F7DF1E)
-![Firebase](https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=%23F7DF1E)
-![Airtable](https://img.shields.io/badge/airtable-%23323330.svg?style=for-the-badge&logo=airtable&logoColor=%23F7DF1E)
-![Contentful](https://img.shields.io/badge/contentful-%23323330.svg?style=for-the-badge&logo=contentful&logoColor=%23F7DF1E)
-![Vercel](https://img.shields.io/badge/vercel-%23323330.svg?style=for-the-badge&logo=vercel&logoColor=%23F7DF1E)
-
+**AI & Tooling**
+![AI SDK](https://img.shields.io/badge/AI_SDK-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-# Side projects
-- [Info Meliquina - Tourist app](https://www.infomeliquina.com/) - For one of the most awesome locations on the planet. 🇦🇷
+### 💻 Featured Side Projects
 
-- [React Marketing Tools](https://www.npmjs.com/package/react-marketing-tools) - Simple to use dependency for managing user events and journeys in your web apps with google analytic GA4, DataLayer Google tag manager or Facebook pixel.
-- [React HUD](https://www.npmjs.com/package/react-heads-up-display) - A showcase view for your website, with multiple action points overlaying the main display.
-- [React Matrix](https://www.npmjs.com/package/react-data-matrix) - Display the likelihood & consequence "scores" for risks & hazards.
+- 🤖 **[Tech Lead Stack & AI Agents](https://github.com/bronz3beard/ai.tech-lead-stack)** - Building AI-driven tools for technical debt auditing, code reviews, and autonomous workflow orchestration.
+- 🏔️ **[Info Meliquina - Tourist App](https://www.infomeliquina.com/)** - For one of the most awesome locations on the planet. 🇦🇷
+- 🎣 **[Fish Patagonia](https://www.fishpatagonia.xyz/)** - All things fishing in Patagonia 🇦🇷🇨🇱
+- ☀️ **[Patagonia Solar](https://www.patagonia-solar.com/)** - All things solar & wind in Patagonia 🇦🇷🇨🇱
+- 🏡 **[Real Estate Patagonia](https://www.realestatepatagonia.com/en/landing)** - All things Real Estate in Patagonia 🇦🇷🇨🇱
+- 🎯 **[React HUD](https://www.npmjs.com/package/react-heads-up-display)** - A showcase view for your website, with multiple action points overlaying the main display.
+- 📊 **[React Matrix](https://bronz3beard.github.io/react-matrix/)** - Display the likelihood & consequence "scores" for risks & hazards.
 
-
-<!---
-bronz3beard/bronz3beard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
