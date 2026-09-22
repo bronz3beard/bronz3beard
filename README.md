@@ -41,6 +41,7 @@
 ![MaterialUI](https://img.shields.io/badge/mui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 **Backend & Data**
+![Nest.js](https://img.shields.io/badge/nestjs-%23323330.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23F7DF1E)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
