@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Software Engineer with over 8 years of experience building highly functional, enjoyable applications since 2018.</em><br/>
+  <em>Software Engineer with over 8 years of experience building highly functional, enjoyable applications since 2017.</em><br/>
   With a creative mindset and a large appetite for learning, I am constantly staying curious and continuously seeking out new technologies.
 </p>
 
