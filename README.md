@@ -63,7 +63,7 @@
 - ☀️ **[Patagonia Solar](https://www.patagonia-solar.com/)** - All things solar & wind in Patagonia 🇦🇷🇨🇱
 - 🏡 **[Real Estate Patagonia](https://www.realestatepatagonia.com/en/landing)** - All things Real Estate in Patagonia 🇦🇷🇨🇱
 
-- ## 💻 Open Source
+#### 💻 Open Source
 -  🤖 **[Tech Lead Stack & AI Agents](https://github.com/bronz3beard/ai.tech-lead-stack)** - Building AI-driven tools for technical debt auditing, code reviews, and autonomous workflow orchestration.
 - **[react-marketing-tools](https://github.com/bronz3beard/react-marketing-tools)** - One track() call for Google Tag Manager, Google Analytics 4 and the Meta Pixel — with Consent Mode v2, UTM attribution, personal-data redaction and a server-side relay. ESM-only, no runtime dependencies, React bindings included.
 - 📊 **[React Matrix](https://bronz3beard.github.io/react-matrix/)** - Display the likelihood & consequence "scores" for risks & hazards.
